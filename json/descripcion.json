@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Silla de Comedor",
+        "precio": 50.00,
+        "descripcion_corta": "Silla de comedor con respaldo acolchado y patas de madera.",
+        "descripcion_extendida": "La silla de comedor es perfecta para reuniones familiares y cenas elegantes. Su respaldo acolchado proporciona comodidad durante largos periodos de tiempo, y las patas de madera sólida le dan un aspecto clásico y elegante. Esta silla es una adición ideal para tu comedor.",
+        "imagen": "url_de_la_imagen1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Silla de Oficina Ergonómica",
+        "precio": 120.00,
+        "descripcion_corta": "Silla de oficina ergonómica con soporte lumbar ajustable.",
+        "descripcion_extendida": "La silla de oficina ergonómica está diseñada pensando en tu comodidad y salud. Cuenta con un soporte lumbar ajustable que te permite personalizar la silla para satisfacer tus necesidades. Ya no tendrás que preocuparte por la fatiga mientras trabajas en tu escritorio durante horas.",
+        "imagen": "url_de_la_imagen2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Silla de Lectura",
+        "precio": 80.00,
+        "descripcion_corta": "Cómoda silla de lectura con reposabrazos y cojín acolchado.",
+        "descripcion_extendida": "Nuestra silla de lectura te brinda la comodidad que necesitas para tus momentos de lectura. Los reposabrazos y el cojín acolchado te permiten relajarte mientras disfrutas de un buen libro. Disfruta de horas de lectura placentera en esta silla acogedora.",
+        "imagen": "url_de_la_imagen3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Silla de Jardín Plegable",
+        "precio": 40.00,
+        "descripcion_corta": "Silla de jardín plegable con estructura de aluminio resistente.",
+        "descripcion_extendida": "La silla de jardín plegable es ideal para pasar tiempo al aire libre. Su estructura de aluminio resistente es duradera y liviana, lo que la hace fácil de transportar. Ya sea en tu jardín, terraza o de camping, esta silla te brindará comodidad y conveniencia.",
+        "imagen": "url_de_la_imagen4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Silla de Barra Alta",
+        "precio": 60.00,
+        "descripcion_corta": "Silla alta de barra con respaldo y asiento giratorio.",
+        "descripcion_extendida": "La silla de barra alta es perfecta para tu bar o cocina. Su respaldo y asiento giratorio te permiten disfrutar de una mayor versatilidad y comodidad. Disfruta de tus bebidas y comidas favoritas con estilo en esta silla elegante y funcional.",
+        "imagen": "url_de_la_imagen5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Silla de Playa Plegable",
+        "precio": 25.00,
+        "descripcion_corta": "Silla de playa plegable con bolsillos y portavasos.",
+        "descripcion_extendida": "Lleva la comodidad contigo a la playa con nuestra silla de playa plegable. Además de ser fácil de transportar, cuenta con prácticos bolsillos y un portavasos para mantener tus pertenencias organizadas. Relájate bajo el sol en esta silla funcional.",
+        "imagen": "url_de_la_imagen6.jpg"
+    }
+]

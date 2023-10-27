@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Silla de Comedor",
+        "precio": 50.00,
+        "descripcion": "Silla de comedor con respaldo acolchado y patas de madera.",
+        "imagen": "../img/sillaDeComedor.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Silla de Oficina Ergonómica",
+        "precio": 120.00,
+        "descripcion": "Silla de oficina ergonómica con soporte lumbar ajustable.",
+        "imagen": "../img/sillaErgonomica.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Silla de Lectura",
+        "precio": 80.00,
+        "descripcion": "Cómoda silla de lectura con reposabrazos y cojín acolchado.",
+        "imagen": "../img/sillaDeLectura.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Silla de Jardín Plegable",
+        "precio": 40.00,
+        "descripcion": "Silla de jardín plegable con estructura de aluminio resistente.",
+        "imagen": "../img/sillaDeJardin.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Silla de Barra Alta",
+        "precio": 60.00,
+        "descripcion": "Silla alta de barra con respaldo y asiento giratorio.",
+        "imagen": "../img/sillaAlta.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Silla de Playa Plegable",
+        "precio": 25.00,
+        "descripcion": "Silla de playa plegable con bolsillos y portavasos.",
+        "imagen": "../img/sillaDePlaya.png"
+    }
+]
